@@ -4,7 +4,10 @@ color: #556270;
 font-family: 'Yanone Kaffeesatz', sans-serif;
 background-color: #C7F464;}
 h1
-{font-size: 64px;}
+{
+	font-size: 64px;
+	/*text-shadow: 1px 1px 1px #ccc;*/
+}
 p 
 {font-size: 24px;}
 a:link
