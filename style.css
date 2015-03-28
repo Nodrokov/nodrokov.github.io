@@ -23,9 +23,15 @@ a:link
 {color: #4ECDC4;}
 a:hover
 {color: #C7F4F4;}
-h1 a{
+h1 a:link{
 text-decoration:none;
 color: #556270;}
-h2 a{
+h2 a:link{
+text-decoration:none;
+color: #556270;}
+h1 a:hover{
+text-decoration:none;
+color: #556270;}
+h2 a:hover{
 text-decoration:none;
 color: #556270;}
