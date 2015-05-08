@@ -23,9 +23,11 @@ p a
 {color: #4ECDC4;}
 p a:hover
 {color: #C7F4F4;}
-h a{
+h1 a{
 text-decoration:none;
 color: #556270;}
-/*h2 a{
+h1 a:hover{color: #7C8B9C;}
+h2 a{
 text-decoration:none;
 color: #556270;}
+h2 a:hover{color: #7C8B9C;}
