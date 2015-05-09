@@ -32,5 +32,6 @@ text-decoration:none;
 color: #556270;}
 h2 a:hover{color: #7C8B9C;}
 #bait{
+	position: fixed;
 	left:-10000px;
 }
