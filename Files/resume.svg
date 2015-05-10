@@ -1,3 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="75px" height="75px" viewBox="3.75 -7.5 75.0 101.25" enable-background="new 0 0 75 75" xml:space="preserve">
-<path d="M50.046,9.929H16.854v55.247H59.4l0.079-46.652L50.046,9.929z M57.383,63.314H18.671V12.025h30.396v8.315h8.315V63.314z   M44.176,21.948H23.073V20.69h21.103V21.948z M54.028,26.6H23.073v-1.258h30.955V26.6z M36.42,31.251H23.073v-1.258H36.42V31.251z   M54.028,35.903H23.073v-1.258h30.955V35.903z M54.028,45.207H23.073v-1.258h30.955V45.207z M54.028,49.858H23.073v-1.258h30.955  V49.858z M45.783,40.555h-22.71v-1.258h22.71V40.555z M36.245,54.511H23.073v-1.258h13.172V54.511z"/>
-<text x="0.0" y="88.125" font-size="3.75" font-weight="bold" font-family="Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif" fill="#000000">Created by Stephen Borengasser</text><text x="0.0" y="91.875" font-size="3.75" font-weight="bold" font-family="Helvetica Neue, Helvetica, Arial-Unicode, Arial, Sans-serif" fill="#000000">from the Noun Project</text></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="75px"
+   height="75px"
+   viewBox="3.75 -7.5 75.0 101.25"
+   enable-background="new 0 0 75 75"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="resume.svg"><metadata
+     id="metadata13"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs11" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="702"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="3.1466667"
+     inkscape:cx="37.5"
+     inkscape:cy="37.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" /><path
+     d="M50.046,9.929H16.854v55.247H59.4l0.079-46.652L50.046,9.929z M57.383,63.314H18.671V12.025h30.396v8.315h8.315V63.314z   M44.176,21.948H23.073V20.69h21.103V21.948z M54.028,26.6H23.073v-1.258h30.955V26.6z M36.42,31.251H23.073v-1.258H36.42V31.251z   M54.028,35.903H23.073v-1.258h30.955V35.903z M54.028,45.207H23.073v-1.258h30.955V45.207z M54.028,49.858H23.073v-1.258h30.955  V49.858z M45.783,40.555h-22.71v-1.258h22.71V40.555z M36.245,54.511H23.073v-1.258h13.172V54.511z"
+     id="path3" /></svg>
