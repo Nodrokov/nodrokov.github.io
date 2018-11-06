@@ -1,4 +1,4 @@
 nodrokov.github.io
 ==================
 
-Nodrokov
+Personal website for Isaac J. Shure. Domain name is isaacshure.tk
